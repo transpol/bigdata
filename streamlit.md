@@ -71,7 +71,7 @@ When you change the code, you can just refrech the browser or enable autoupdate 
 
 The data loading (and preprocessing) should be cached.
 
-## Dockerize your Streamlit App
+## Dockerize your Streamlit App (optional)
 
 Create a Dockerfile for your Streamlit App. Run and test the Docker container.
 
@@ -103,5 +103,5 @@ CMD ["app.py"]
 
 ## Deliverable
 
-1. Push your Strimlit directory to Github and post the URL of your repository to Moodle
-2. Take a screenshot of the Streamlit App and upload it to Moodle
+1. Push your Streamlit directory to Github and post the URL of your repository to Moodle
+2. Instead of the Gapminder project, you may also illustrate your course project data with Streamlit. If so, please show next time in class.
